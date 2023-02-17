@@ -1,0 +1,8 @@
+{
+  "name": "isfahan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "fe4c06b1"
+}
